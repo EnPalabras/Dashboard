@@ -38,9 +38,10 @@
 	"dependencies": {
 		"@astrojs/sitemap": "^1.1.0",
 		"@astrojs/tailwind": "^3.0.1",
+		"@astrojs/vercel": "^3.3.0",
 		"@faker-js/faker": "^7.6.0",
 		"apexcharts": "^3.37.2",
-		"astro": "^2.0.4",
+		"astro": "^2.4.5",
 		"flowbite": "^1.6.3",
 		"flowbite-typography": "^1.0.3",
 		"shiki": "^0.14.1",
